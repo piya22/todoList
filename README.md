@@ -1,2 +1,2 @@
 # todoList
-basic to-do list web app
+This is a basic todo list app which enables you to list your todos.
